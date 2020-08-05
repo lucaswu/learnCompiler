@@ -7,6 +7,7 @@
 //
 
 #include "vm.h"
+#include "utils.h"
 
 void initVM(VM*vm)
 {
